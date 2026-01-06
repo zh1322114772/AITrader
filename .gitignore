@@ -420,3 +420,4 @@ FodyWeavers.xsd
 # Python
 venv/
 .env
+app_settings.json
